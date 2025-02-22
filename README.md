@@ -34,3 +34,5 @@ Enhance Your FiveM Server Security Today!
 Join the growing number of FiveM server owners who trust MIXAS AC to maintain a fair and secure gaming environment. Say goodbye to cheaters and take full control of your server's security.
 
 Get started with MIXAS AC today and experience the best in FiveM anticheat protection!
+
+![logo_animation](https://github.com/user-attachments/assets/86fbe6b0-d328-4e18-be16-00050f29ed1d)
